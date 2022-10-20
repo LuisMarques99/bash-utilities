@@ -1,6 +1,6 @@
 # Bash Utilities
 
-Bash scripts developed to solve multiple existencial problems that can be easily solved with a simple command. :roll_eyes: :grin:
+Bash scripts developed to solve multiple existencial problems that can be easily solved with a simple command :roll_eyes: :grin:
 
 ## Table of Contents
 
